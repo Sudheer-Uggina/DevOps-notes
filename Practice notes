@@ -1,1 +1,8 @@
+To connect the server
+ssh -i <private-key> user-name@IP
 
+$ -> normal user
+/home/ec2-user -> /home/<user-name>
+
+sudo su -> root access
+# -> super user
